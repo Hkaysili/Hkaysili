@@ -34,8 +34,8 @@
 &nbsp;&nbsp;
 -->
 
-[![website](./img/linkedin-light.svg)](linkedin)&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](instagram)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harunveli/)&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/harunveli_/)
 
 ### Languages and Tools:
 
@@ -62,8 +62,5 @@
 <br />
 <br />
 
-[website] : ""
-[linkedin]: https://www.linkedin.com/in/harunveli/
-[instagram]: https://www.instagram.com/harunveli_/
 
 ---
