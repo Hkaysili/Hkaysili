@@ -35,7 +35,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harunveli/)&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/harunveli_/)
 
-### Languages and Tools:
+### SKILLS & COMPETENCES
 
 <img  align="left" alt="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
