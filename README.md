@@ -34,7 +34,7 @@
 &nbsp;&nbsp;
 -->
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harunveli/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harunveli/)&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/harunveli_/)
 
 ### SKILLS & COMPETENCES:
