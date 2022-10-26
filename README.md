@@ -1,6 +1,6 @@
 # Hi there, I'm Harun 👋
 
-[(https://img.shields.io/badge/Linkedin%20Portfolio-Harun%20Veli%20KAYSILI-critical?style=for-the-badge&logo=default&link=https://www.linkedin.com/in/harunveli/)][linkedin]
+[<img align="left" alt="Harun Veli KAYSILI" onclick="javascript:void(0)" width="26px" src="https://img.shields.io/badge/Linkedin%20Portfolio-Harun%20Veli%20KAYSILI-critical?style=for-the-badge&logo=default&link=https://www.linkedin.com/in/harunveli/" style="padding-right:10px;" />]
 
 <!--
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -11,6 +11,7 @@
 -->
 
 ## I'm a Development Monster !
+
 - :mortar_board: Computer Engineer
 - :briefcase: 7+ years experienced Senior Frontend Developer with hand-on experience in highly-responsive user interface components by deploying Javascript & React.
 - :rocket: I’m currently learning everything 🤣
@@ -33,14 +34,12 @@
 &nbsp;&nbsp;
 -->
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-[(./img/linkedin-light.svg)](linkedin)&nbsp;&nbsp;
-[(./img/instagram-light.svg)](instagram)
+[![website](./img/linkedin-light.svg)](linkedin)&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](instagram)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" click="javascript=void(0)"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
@@ -63,7 +62,7 @@
 <br />
 <br />
 
-
+[website] : ""
 [linkedin]: https://www.linkedin.com/in/harunveli/
 [instagram]: https://www.instagram.com/harunveli_/
 
