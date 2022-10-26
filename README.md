@@ -1,14 +1,13 @@
 # Hi there, I'm Harun 👋
 
-[<img align="left" alt="Harun Veli KAYSILI" onclick="javascript:void(0)" width="26px" src="https://img.shields.io/badge/Linkedin%20Portfolio-Harun%20Veli%20KAYSILI-critical?style=for-the-badge&logo=default&link=https://www.linkedin.com/in/harunveli/" style="padding-right:10px;" />]
+[![Website](https://img.shields.io/badge/Linkedin%20Portfolio-Harun%20Veli%20KAYSILI-critical?style=for-the-badge&logo=default&link=https://www.linkedin.com/in/harunveli/)](https://www.linkedin.com/in/harunveli/)
 
-<!--
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+ <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
--->
+ -->
 
 ## I'm a Development Monster !
 
@@ -61,6 +60,5 @@
 
 <br />
 <br />
-
 
 ---
