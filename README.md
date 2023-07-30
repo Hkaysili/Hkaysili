@@ -14,7 +14,7 @@
 - :mortar_board: Computer Engineer
 - :briefcase: 7+ years experienced Senior Frontend Developer with hand-on experience in highly-responsive user interface components by deploying Javascript & React
 - :rocket:  Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance 
-- ⚡ Proven career history in developing high-quality and scalable web applications. Expertise in HTML, CSS/SASS, JavaScript, ReactJS, and NodeJS 
+- ⚡ Proven career history in developing high-quality and scalable web applications. Expertise in  ReactJS, NextJS, HTML5, CSS/SASS, TailwindCSS, Responsive Design, and State Management (Redux , Context API  etc.)
 - ⚡ Passionate about web standards and keeping up with the latest trends in technology.
 - :musical_score:  Music is indispensable in his life ! 
 
