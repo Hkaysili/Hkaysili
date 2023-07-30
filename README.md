@@ -9,7 +9,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
  -->
 
-## I'm a Development Monster !
+## I'm a Senior Frontend Developer !
 
 - :mortar_board: Computer Engineer
 - :briefcase: 7+ years experienced Senior Frontend Developer with hand-on experience in highly-responsive user interface components by deploying Javascript & React
