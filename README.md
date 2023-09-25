@@ -13,10 +13,10 @@
 
 - :mortar_board: Computer Engineer
 - :briefcase: 7+ years experienced Senior Frontend Developer with hand-on experience in highly-responsive user interface components by deploying Javascript & React
-- :rocket:  Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance 
-- ⚡ Proven career history in developing high-quality and scalable web applications. Expertise in  ReactJS, NextJS, HTML5, CSS/SASS, TailwindCSS, Responsive Design, and State Management (Redux , Context API  etc.)
+- :rocket: Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance 
+- ⚡ Proven career history in developing high-quality and scalable web applications. Expertise in ReactJS, NextJS, HTML5, CSS/SASS, TailwindCSS, Responsive Design, and State Management (Redux , Context API etc.)
 - ⚡ Passionate about web standards and keeping up with the latest trends in technology.
-- :musical_score:  Music is indispensable in his life ! 
+- :musical_score: Music is indispensable in his life ! 
 
 ### Connect with me:
 
@@ -37,27 +37,27 @@
 
 ### SKILLS & COMPETENCES
  
-<img  align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Stylus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Gulp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Grunt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
-<img  align="left" alt="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin-bottom: 20px!important;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img align="left" alt="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
+<img align="left" alt="Stylus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg"/>
+<img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Gulp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
+<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
+<img align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
+<img align="left" alt="Grunt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+<img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 <br />
 <br />
