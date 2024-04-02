@@ -55,7 +55,6 @@
 <img align="left" alt="jQuery" title="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img align="left" alt="GraphQL" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
 <img align="left" alt="Node.js" title="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<br/>
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
