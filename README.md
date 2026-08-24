@@ -1,6 +1,8 @@
 # Hi there, I'm Harun 👋
 
-[![Website](https://img.shields.io/badge/Linkedin%20Portfolio-Harun%20Veli%20KAYSILI-critical?style=for-the-badge&logo=default&link=https://www.linkedin.com/in/harunveli/)](https://www.linkedin.com/in/harunveli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harun%20Veli%20Kaysili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunveli/)
+[![Website](https://img.shields.io/badge/Portfolio-harunkaysili.com-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harunkaysili.com)
+
 
  <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
