@@ -34,8 +34,18 @@
 &nbsp;&nbsp;
 -->
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harunveli/)&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/harunveli_/)
+<a href="https://www.linkedin.com/in/harunveli/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg"/>
+    <img src="./img/linkedin-light.svg" width="34" height="34" alt="LinkedIn"/>
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/harunveli_/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/instagram-dark.svg"/>
+    <img src="./img/instagram-light.svg" width="34" height="34" alt="Instagram"/>
+  </picture>
+</a>
 
 ### SKILLS & COMPETENCES
 
