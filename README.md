@@ -38,30 +38,128 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/harunveli_/)
 
 ### SKILLS & COMPETENCES
- 
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Sass" title="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img align="left" alt="Less" title="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
-<img align="left" alt="Stylus" title="Stylus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg"/>
-<img align="left" alt="TailwindCSS" title="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Gulp" title="Gulp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
-<img align="left" alt="Webpack" title="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
-<img align="left" alt="Eslint" title="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
-<img align="left" alt="Grunt" title="Grunt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/>
-<img align="left" alt="React" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Redux" title="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-<img align="left" alt="NextJS" title="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="jQuery" title="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="left" alt="GraphQL" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-<img align="left" alt="Node.js" title="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" click="javascript=void(0)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-<br />
-<br />
+<div align="center">
+
+_The list changes. Adapting doesn’t._
+
+</div>
+
+#### ⚙️ Core
+
+<sub>The language layer — what everything else compiles down to.</sub>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/js.svg" width="40" height="40" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/typescript.svg" width="40" height="40" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/es6.png" width="40" height="40" alt="ES6+"/><br/><sub><b>ES6+</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/html5.svg" width="40" height="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/css.svg" width="40" height="40" alt="CSS"/><br/><sub><b>CSS</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/nodejs.svg" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/restApi.svg" width="40" height="40" alt="REST API"/><br/><sub><b>REST API</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/graphql.svg" width="40" height="40" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub></td>
+    </tr>
+  </table>
+
+</div>
+
+#### 🧩 Frameworks & State
+
+<sub>Daily drivers, the state layer, and a native-mobile side.</sub>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/react.svg" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/nextjs.svg" width="40" height="40" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/redux.svg" width="40" height="40" alt="Redux · RTK Query"/><br/><sub><b>Redux · RTK Query</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/tanstack.svg" width="40" height="40" alt="TanStack Query"/><br/><sub><b>TanStack Query</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/zustand.svg" width="40" height="40" alt="Zustand"/><br/><sub><b>Zustand</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vue.svg" width="40" height="40" alt="Vue.js"/><br/><sub><b>Vue.js</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/swift.svg" width="40" height="40" alt="Swift · iOS"/><br/><sub><b>Swift · iOS</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/reacthookform.svg" width="40" height="40" alt="React Hook Form"/><br/><sub><b>React Hook Form</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/turborepo.svg" width="40" height="40" alt="Turborepo"/><br/><sub><b>Turborepo</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/i18next.svg" width="40" height="40" alt="i18next"/><br/><sub><b>i18next</b></sub></td>
+    </tr>
+  </table>
+
+</div>
+
+#### 🎨 Styling & Motion
+
+<sub>Design-system thinking, pixel-accurate to Figma.</sub>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/tailwindcss.svg" width="40" height="40" alt="TailwindCSS"/><br/><sub><b>TailwindCSS</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/sass.svg" width="40" height="40" alt="Sass"/><br/><sub><b>Sass</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/styledcomponents.svg" width="40" height="40" alt="Styled Components"/><br/><sub><b>Styled Components</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/headlessui.svg" width="40" height="40" alt="Headless UI"/><br/><sub><b>Headless UI</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/framerMotion.svg" width="40" height="40" alt="Framer Motion"/><br/><sub><b>Framer Motion</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/gsap.svg" width="40" height="40" alt="GSAP"/><br/><sub><b>GSAP</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/postcss.svg" width="40" height="40" alt="PostCSS"/><br/><sub><b>PostCSS</b></sub></td>
+    </tr>
+  </table>
+
+</div>
+
+#### 🛠️ Tooling & Workflow
+
+<sub>Quality gates, pipelines, platforms — and the rituals around them.</sub>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/git.svg" width="40" height="40" alt="Git · GitHub"/><br/><sub><b>Git · GitHub</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/eslint.svg" width="40" height="40" alt="ESLint"/><br/><sub><b>ESLint</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/prettier.svg" width="40" height="40" alt="Prettier"/><br/><sub><b>Prettier</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/webpack.svg" width="40" height="40" alt="Webpack"/><br/><sub><b>Webpack</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vite.svg" width="40" height="40" alt="Vite"/><br/><sub><b>Vite</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/pnpm.svg" width="40" height="40" alt="pnpm"/><br/><sub><b>pnpm</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vercel.svg" width="40" height="40" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/supabase.svg" width="40" height="40" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/firebase.svg" width="40" height="40" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/mongodb.svg" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/googlemaps.svg" width="40" height="40" alt="Google Maps API"/><br/><sub><b>Google Maps API</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/postman.svg" width="40" height="40" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/swagger.svg" width="40" height="40" alt="Swagger · OpenAPI"/><br/><sub><b>Swagger · OpenAPI</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/jira.svg" width="40" height="40" alt="Jira · Confluence"/><br/><sub><b>Jira · Confluence</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/figma.svg" width="40" height="40" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vscode.svg" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+    </tr>
+  </table>
+
+</div>
+
+#### 🗄️ Retired shelf
+
+<sub>Served their tour of duty — retired, not forgotten.</sub>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/angular.svg" width="30" height="30" alt="Angular.js"/><br/><sub><b>Angular.js</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/jquery.webp" width="30" height="30" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/less.svg" width="30" height="30" alt="Less"/><br/><sub><b>Less</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/bootstrap.svg" width="30" height="30" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/dotnet.svg" width="30" height="30" alt=".NET MVC"/><br/><sub><b>.NET MVC</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/gulp.svg" width="30" height="30" alt="Gulp"/><br/><sub><b>Gulp</b></sub></td>
+      <td align="center" width="95"><img src="https://harunkaysili.com/skills/grunt.svg" width="30" height="30" alt="Grunt"/><br/><sub><b>Grunt</b></sub></td>
+    </tr>
+  </table>
+
+</div>
 
 ---
