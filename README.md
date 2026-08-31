@@ -49,117 +49,93 @@ _The list changes. Adapting doesn’t._
 
 <sub>The language layer — what everything else compiles down to.</sub>
 
-<div align="center">
+<p align="center">
+  <img src="https://harunkaysili.com/skills/js.svg" width="38" height="38" title="JavaScript" alt="JavaScript"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/typescript.svg" width="38" height="38" title="TypeScript" alt="TypeScript"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/es6.png" width="38" height="38" title="ES6+" alt="ES6+"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/html5.svg" width="38" height="38" title="HTML5" alt="HTML5"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/css.svg" width="38" height="38" title="CSS" alt="CSS"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/nodejs.svg" width="38" height="38" title="Node.js" alt="Node.js"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/restApi.svg" width="38" height="38" title="REST API" alt="REST API"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/graphql.svg" width="38" height="38" title="GraphQL" alt="GraphQL"/> &nbsp;
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/js.svg" width="40" height="40" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/typescript.svg" width="40" height="40" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/es6.png" width="40" height="40" alt="ES6+"/><br/><sub><b>ES6+</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/html5.svg" width="40" height="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/css.svg" width="40" height="40" alt="CSS"/><br/><sub><b>CSS</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/nodejs.svg" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/restApi.svg" width="40" height="40" alt="REST API"/><br/><sub><b>REST API</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/graphql.svg" width="40" height="40" alt="GraphQL"/><br/><sub><b>GraphQL</b></sub></td>
-    </tr>
-  </table>
-
-</div>
+<p align="center"><sub><b>JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; ES6+ &nbsp;·&nbsp; HTML5 &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; REST API &nbsp;·&nbsp; GraphQL</b></sub></p>
 
 #### 🧩 Frameworks & State
 
 <sub>Daily drivers, the state layer, and a native-mobile side.</sub>
 
-<div align="center">
+<p align="center">
+  <img src="https://harunkaysili.com/skills/react.svg" width="38" height="38" title="React" alt="React"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/nextjs.svg" width="38" height="38" title="Next.js" alt="Next.js"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/redux.svg" width="38" height="38" title="Redux · RTK Query" alt="Redux · RTK Query"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/tanstack.svg" width="38" height="38" title="TanStack Query" alt="TanStack Query"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/zustand.svg" width="38" height="38" title="Zustand" alt="Zustand"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/vue.svg" width="38" height="38" title="Vue.js" alt="Vue.js"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/swift.svg" width="38" height="38" title="Swift · iOS" alt="Swift · iOS"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/reacthookform.svg" width="38" height="38" title="React Hook Form" alt="React Hook Form"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/turborepo.svg" width="38" height="38" title="Turborepo" alt="Turborepo"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/i18next.svg" width="38" height="38" title="i18next" alt="i18next"/> &nbsp;
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/react.svg" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/nextjs.svg" width="40" height="40" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/redux.svg" width="40" height="40" alt="Redux · RTK Query"/><br/><sub><b>Redux · RTK Query</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/tanstack.svg" width="40" height="40" alt="TanStack Query"/><br/><sub><b>TanStack Query</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/zustand.svg" width="40" height="40" alt="Zustand"/><br/><sub><b>Zustand</b></sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vue.svg" width="40" height="40" alt="Vue.js"/><br/><sub><b>Vue.js</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/swift.svg" width="40" height="40" alt="Swift · iOS"/><br/><sub><b>Swift · iOS</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/reacthookform.svg" width="40" height="40" alt="React Hook Form"/><br/><sub><b>React Hook Form</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/turborepo.svg" width="40" height="40" alt="Turborepo"/><br/><sub><b>Turborepo</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/i18next.svg" width="40" height="40" alt="i18next"/><br/><sub><b>i18next</b></sub></td>
-    </tr>
-  </table>
-
-</div>
+<p align="center"><sub><b>React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Redux · RTK Query &nbsp;·&nbsp; TanStack Query &nbsp;·&nbsp; Zustand &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; Swift · iOS &nbsp;·&nbsp; React Hook Form &nbsp;·&nbsp; Turborepo &nbsp;·&nbsp; i18next</b></sub></p>
 
 #### 🎨 Styling & Motion
 
 <sub>Design-system thinking, pixel-accurate to Figma.</sub>
 
-<div align="center">
+<p align="center">
+  <img src="https://harunkaysili.com/skills/tailwindcss.svg" width="38" height="38" title="TailwindCSS" alt="TailwindCSS"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/sass.svg" width="38" height="38" title="Sass" alt="Sass"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/styledcomponents.svg" width="38" height="38" title="Styled Components" alt="Styled Components"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/headlessui.svg" width="38" height="38" title="Headless UI" alt="Headless UI"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/framerMotion.svg" width="38" height="38" title="Framer Motion" alt="Framer Motion"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/gsap.svg" width="38" height="38" title="GSAP" alt="GSAP"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/postcss.svg" width="38" height="38" title="PostCSS" alt="PostCSS"/> &nbsp;
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/tailwindcss.svg" width="40" height="40" alt="TailwindCSS"/><br/><sub><b>TailwindCSS</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/sass.svg" width="40" height="40" alt="Sass"/><br/><sub><b>Sass</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/styledcomponents.svg" width="40" height="40" alt="Styled Components"/><br/><sub><b>Styled Components</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/headlessui.svg" width="40" height="40" alt="Headless UI"/><br/><sub><b>Headless UI</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/framerMotion.svg" width="40" height="40" alt="Framer Motion"/><br/><sub><b>Framer Motion</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/gsap.svg" width="40" height="40" alt="GSAP"/><br/><sub><b>GSAP</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/postcss.svg" width="40" height="40" alt="PostCSS"/><br/><sub><b>PostCSS</b></sub></td>
-    </tr>
-  </table>
-
-</div>
+<p align="center"><sub><b>TailwindCSS &nbsp;·&nbsp; Sass &nbsp;·&nbsp; Styled Components &nbsp;·&nbsp; Headless UI &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; GSAP &nbsp;·&nbsp; PostCSS</b></sub></p>
 
 #### 🛠️ Tooling & Workflow
 
 <sub>Quality gates, pipelines, platforms — and the rituals around them.</sub>
 
-<div align="center">
+<p align="center">
+  <img src="https://harunkaysili.com/skills/git.svg" width="38" height="38" title="Git · GitHub" alt="Git · GitHub"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/eslint.svg" width="38" height="38" title="ESLint" alt="ESLint"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/prettier.svg" width="38" height="38" title="Prettier" alt="Prettier"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/webpack.svg" width="38" height="38" title="Webpack" alt="Webpack"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/vite.svg" width="38" height="38" title="Vite" alt="Vite"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/pnpm.svg" width="38" height="38" title="pnpm" alt="pnpm"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/vercel.svg" width="38" height="38" title="Vercel" alt="Vercel"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/supabase.svg" width="38" height="38" title="Supabase" alt="Supabase"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/firebase.svg" width="38" height="38" title="Firebase" alt="Firebase"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/mongodb.svg" width="38" height="38" title="MongoDB" alt="MongoDB"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/googlemaps.svg" width="38" height="38" title="Google Maps API" alt="Google Maps API"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/postman.svg" width="38" height="38" title="Postman" alt="Postman"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/swagger.svg" width="38" height="38" title="Swagger · OpenAPI" alt="Swagger · OpenAPI"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/jira.svg" width="38" height="38" title="Jira · Confluence" alt="Jira · Confluence"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/figma.svg" width="38" height="38" title="Figma" alt="Figma"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/vscode.svg" width="38" height="38" title="VS Code" alt="VS Code"/> &nbsp;
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/git.svg" width="40" height="40" alt="Git · GitHub"/><br/><sub><b>Git · GitHub</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/eslint.svg" width="40" height="40" alt="ESLint"/><br/><sub><b>ESLint</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/prettier.svg" width="40" height="40" alt="Prettier"/><br/><sub><b>Prettier</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/webpack.svg" width="40" height="40" alt="Webpack"/><br/><sub><b>Webpack</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vite.svg" width="40" height="40" alt="Vite"/><br/><sub><b>Vite</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/pnpm.svg" width="40" height="40" alt="pnpm"/><br/><sub><b>pnpm</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vercel.svg" width="40" height="40" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/supabase.svg" width="40" height="40" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/firebase.svg" width="40" height="40" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/mongodb.svg" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/googlemaps.svg" width="40" height="40" alt="Google Maps API"/><br/><sub><b>Google Maps API</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/postman.svg" width="40" height="40" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/swagger.svg" width="40" height="40" alt="Swagger · OpenAPI"/><br/><sub><b>Swagger · OpenAPI</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/jira.svg" width="40" height="40" alt="Jira · Confluence"/><br/><sub><b>Jira · Confluence</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/figma.svg" width="40" height="40" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-      <td align="center" width="110"><img src="https://harunkaysili.com/skills/vscode.svg" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-    </tr>
-  </table>
-
-</div>
+<p align="center"><sub><b>Git · GitHub &nbsp;·&nbsp; ESLint &nbsp;·&nbsp; Prettier &nbsp;·&nbsp; Webpack &nbsp;·&nbsp; Vite &nbsp;·&nbsp; pnpm &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Google Maps API &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Swagger · OpenAPI &nbsp;·&nbsp; Jira · Confluence &nbsp;·&nbsp; Figma &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Husky · commit lint</b></sub></p>
 
 #### 🗄️ Retired shelf
 
 <sub>Served their tour of duty — retired, not forgotten.</sub>
 
-<div align="center">
+<p align="center">
+  <img src="https://harunkaysili.com/skills/angular.svg" width="26" height="26" title="Angular.js" alt="Angular.js"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/jquery.webp" width="26" height="26" title="jQuery" alt="jQuery"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/less.svg" width="26" height="26" title="Less" alt="Less"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/bootstrap.svg" width="26" height="26" title="Bootstrap" alt="Bootstrap"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/dotnet.svg" width="26" height="26" title=".NET MVC" alt=".NET MVC"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/gulp.svg" width="26" height="26" title="Gulp" alt="Gulp"/> &nbsp;
+  <img src="https://harunkaysili.com/skills/grunt.svg" width="26" height="26" title="Grunt" alt="Grunt"/> &nbsp;
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/angular.svg" width="30" height="30" alt="Angular.js"/><br/><sub><b>Angular.js</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/jquery.webp" width="30" height="30" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/less.svg" width="30" height="30" alt="Less"/><br/><sub><b>Less</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/bootstrap.svg" width="30" height="30" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/dotnet.svg" width="30" height="30" alt=".NET MVC"/><br/><sub><b>.NET MVC</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/gulp.svg" width="30" height="30" alt="Gulp"/><br/><sub><b>Gulp</b></sub></td>
-      <td align="center" width="95"><img src="https://harunkaysili.com/skills/grunt.svg" width="30" height="30" alt="Grunt"/><br/><sub><b>Grunt</b></sub></td>
-    </tr>
-  </table>
-
-</div>
+<p align="center"><sub><i>Angular.js &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Less &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; .NET MVC &nbsp;·&nbsp; Gulp &nbsp;·&nbsp; Grunt</i></sub></p>
 
 ---
